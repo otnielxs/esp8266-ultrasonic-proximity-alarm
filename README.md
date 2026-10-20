@@ -3,7 +3,7 @@
 A configurable proximity alarm built on the **NodeMCU ESP8266**. An HC-SR04 ultrasonic sensor measures distance, a potentiometer sets the alarm threshold in real time, and an active buzzer sounds when an object comes closer than that threshold.
 
 > Basic learning project for sensors, analog input, distance logic, and actuators.
-
+![Setup](docs/setup.jpg)
 
 ## Features
 
@@ -24,8 +24,8 @@ A configurable proximity alarm built on the **NodeMCU ESP8266**. An HC-SR04 ultr
 | Potentiometer (10 kΩ) | Alarm threshold adjustment |
 
 ---
-
 ## Wiring
+![wiring](docs/wiring.png)
 
 | Part | Pin | Connects to |
 |---|---|---|
