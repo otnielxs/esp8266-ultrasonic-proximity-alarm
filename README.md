@@ -69,4 +69,6 @@ The threshold can be changed in real time by turning the potentiometer.
 4. Open `simple_buzzer_potentiometer.ino` and upload the sketch.
 5. Open the Serial Monitor to view the readings.
 
+You can also see the demo video [demo](docs/demo.mp4)
+
 
