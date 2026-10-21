@@ -2,13 +2,6 @@
   <img src="docs/setup.jpg" width="600">
 </p>
 
-=======
->>>>>>> 35994c0 (Update README.md)
-
-
-<<<<<<< HEAD
-> Basic learning project for sensors, analog input, distance logic, and actuators.
-=======
 A proximity alarm built on the **NodeMCU ESP8266**. An HC-SR04 ultrasonic sensor measures distance, and a passive buzzer sounds a tone when an object comes closer than 20 cm. A potentiometer sets the pitch of the alarm tone in real time.
 
 > Basic learning project for sensors, analog input, distance logic, and tone generation.
