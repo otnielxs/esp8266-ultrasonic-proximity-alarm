@@ -1,7 +1,7 @@
 <p align="center">
   <img src="docs/setup.jpg" width="600">
 </p>
-# Simple Buzzer-Potentiometer
+
 
 A configurable proximity alarm built on the **NodeMCU ESP8266**. An HC-SR04 ultrasonic sensor measures distance, a potentiometer sets the alarm threshold in real time, and an active buzzer sounds when an object comes closer than that threshold.
 
